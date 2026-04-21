@@ -2,7 +2,7 @@
 
 An academic impact forecasting tool that predicts a researcher's H-Index 5 years ahead. Generated with BESSER's WebApp and PytorchGenerator, then improved with a polished UI on top of the generated code.
 
-> **Base version:** The [main branch](https://github.com/DaoudiNadia/HIndexPredictor-BESSER/tree/main) contains the unmodified generated code this project builds upon.
+> **Base version:** The [main branch](https://github.com/DaoudiNadia/HIndexPredictor-BESSER/tree/master) contains the unmodified generated code this project builds upon.
 
 ## What is this?
 
